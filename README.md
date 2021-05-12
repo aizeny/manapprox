@@ -1,5 +1,5 @@
 # manapprox - Non-Parametric Estimation of Manifolds from Noisy Data
-Code for the paper "Non-Parametric Estimation of Manifolds from Noisy Data"
+Code for the paper "Non-Parametric Estimation of Manifolds from Noisy Data" (https://arxiv.org/abs/2105.04754)
 
 
 ## Installing
@@ -11,7 +11,7 @@ Installation for development is done with
 ```
 pip install -e  .
 ```
-Now if you want to import the manapprox package, for example for an experiment, you can simply run
+After installation, to import the manapprox package, for example for an experiment, simply run
 ```
 import manapprox
 ```
