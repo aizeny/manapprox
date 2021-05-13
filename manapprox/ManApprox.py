@@ -1,7 +1,7 @@
 '''
 Written by Barak Sober & Yariv Aizenbud. 2019.
 If you are using this code please cite:
-1) Y. Aizenbud and B. Sober "Estimation of Manifolds from Noisy Samples"
+1) Y. Aizenbud and B. Sober "Non-Parametric Estimation of Manifolds from Noisy Data"
 2) B. Sober and D. Levin. "Manifold Approximation by Moving Least-Squares Projection (MMLS)." 
 3) B. Sober,Y. Aizenbud, and D. Levin. "Approximation of functions over manifolds: A moving least-squares approach." Journal of Computational and Applied Mathematics
 '''
